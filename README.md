@@ -12,6 +12,21 @@
 > <br/>
 > texto extra nro 2
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Paragraph   | Text fooziman barziman quximan   |
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      A-->E;
+      B-->D;
+      C-->D;
+```
+
 ![logo](logo_freekee.png)
 
 [enlace](https://dillinger.io/)

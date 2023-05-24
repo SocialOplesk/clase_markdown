@@ -12,6 +12,8 @@
 > <br/>
 > texto extra nro 2
 
+![logo](logo_freekee.png)
+
 [enlace](https://dillinger.io/)
 <br/>
 <h5>hola desde MD</h5>
